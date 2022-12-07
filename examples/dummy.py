@@ -1,6 +1,6 @@
 from appall import AppallingLogger
 
-logger = AppallingLogger(print)
+logger = AppallingLogger()
 
 logger.log("foo")
 logger.log("qux")

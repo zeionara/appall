@@ -11,7 +11,7 @@ The tool can be used the following way (see `examples` folder):
 ```py
 from appall import AppallingLogger
 
-logger = AppallingLogger(print)
+logger = AppallingLogger()
 
 logger.log("foo")
 logger.log("qux")
