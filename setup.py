@@ -17,7 +17,7 @@ setup(
     ],
     install_requires=[],
     classifiers=[
-        'Programming Language :: Python :: 3.10.8',
+        'Programming Language :: Python :: 3.10',
     ],
     long_description = long_description,
     long_description_content_type = 'text/markdown'
