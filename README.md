@@ -1,5 +1,9 @@
 # Appall 😱
 
+<p align="center">
+    <img src="assets/images/logo.png"/>
+</p>
+
 **a**bridged **p**retty **p**rinting **a**pp for **l**ong **l**ine **l**ogging a.k.a one **app** to log'em **all**
 
 This tiny utility allows you to **horizontally** juxtapose some text in terminal
